@@ -2,8 +2,6 @@
 
 Download: [Data](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) | [Handout](https://github.com/chriskhanhtran/facebook-detect-food-trends/blob/master/handout.pdf)
 
-<img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/fb-food-trends.png"/>
-
 In order present a business intelligence plan for the digital platform of Electronic Commerce, focused on customer retention and loyalty, I selected the next key indicator (kpis):
 
 - **Customer Retention Rate:** measure the loyalty of customers     towards a business over a specific period of time.
@@ -14,6 +12,6 @@ In order present a business intelligence plan for the digital platform of Electr
 - **Cart Abandonment Rate:** This index measures the proportion of customers who add products to the online shopping cart but do not complete the purchase.
 - **Churn Rate:** this index measures the proportion of customers lost within a certain period.
 
-
+<img src="https://github.com/GaMicNa/RETAIL-E-COMMERCE-LOYALTY/blob/master/04_IMAGES/dashboard.PNG"/>
 
 
