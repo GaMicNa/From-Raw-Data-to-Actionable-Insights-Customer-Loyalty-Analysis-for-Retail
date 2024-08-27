@@ -1,6 +1,6 @@
 # Business intelligence plan aimed at user loyalty on an Electronic Commerce platform
 
-Download: [Data](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) | [Handout](https://github.com/chriskhanhtran/facebook-detect-food-trends/blob/master/handout.pdf)
+Download: [Data](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) | [Handout](https://github.com/chriskhanhtran/facebook-detect-food-trends/blob/master/handout.pdf) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM2NzlhOGMtM2E5Mi00NGQyLThlYmUtOTgyZGJmMTBmY2VmIiwidCI6ImFmZTk4ODE3LWViZTgtNDNhYi04YWRlLWJjMGEyOGNiNTlmYyIsImMiOjR9)
 
 In order present a business intelligence plan for the digital platform of Electronic Commerce, focused on customer retention and loyalty, I selected the next key indicator (kpis):
 
