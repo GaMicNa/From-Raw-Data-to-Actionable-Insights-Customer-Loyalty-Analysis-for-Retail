@@ -2,9 +2,9 @@
 
 Download: [Data](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) | [Handout](https://github.com/chriskhanhtran/facebook-detect-food-trends/blob/master/handout.pdf) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM2NzlhOGMtM2E5Mi00NGQyLThlYmUtOTgyZGJmMTBmY2VmIiwidCI6ImFmZTk4ODE3LWViZTgtNDNhYi04YWRlLWJjMGEyOGNiNTlmYyIsImMiOjR9)
 
-In order present a business intelligence plan for the digital platform of Electronic Commerce, focused on customer retention and loyalty, I selected the next key indicator (kpis):
+In order to present a business intelligence plan for the digital platform of Electronic Commerce, focused on customer retention and loyalty, I selected the following key indicators (kpis):
 
-- **Customer Retention Rate:** measure the loyalty of customers     towards a business over a specific period of time.
+- **Customer Retention Rate:** measure the loyalty of customers towards a business over a specific period of time.
 - **Customer Lifetime Value (CLV):** indicates the average value (money) that a customer has contributed to the company throughout their entire relationship with it.
 - **Ratio Upsell:** indicates the ability to persuade our current customers to choose us for purchasing other types of products.
 - **Client Retention Rate:** this measures how many products are returned by customers after purchase.
