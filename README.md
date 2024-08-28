@@ -12,6 +12,8 @@ In order to present a business intelligence plan for the digital platform of Ele
 - **Cart Abandonment Rate:** This index measures the proportion of customers who add products to the online shopping cart but do not complete the purchase.
 - **Churn Rate:** this index measures the proportion of customers lost within a certain period.
 
+So, the conceptual and physical models of the datamart were proposed, key performance indicators (KPIs) were selected, the database was cleaned, transformed, and standardized using Python (Pandas), the database was loaded into Power BI, and subsequently, insights and key performance indicators were obtained and presented in the following dashboard:
+
 <img src="https://github.com/GaMicNa/RETAIL-E-COMMERCE-LOYALTY/blob/master/04_IMAGES/dashboard.PNG"/>
 
 
